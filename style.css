@@ -70,3 +70,25 @@ p {
     text-align: center;
   }
 }
+img {
+  width: 300px;
+  height: 300px;
+  top: 239px;
+  left: 740px;
+  border-radius: 20px;
+}
+.about-section {
+  text-align: center;
+  padding: 0;
+}
+.about-section-content {
+  margin: 30px;
+}
+.about-section h1 {
+  font-family: Playfair Display;
+  font-size: 64px;
+  line-height: 80px;
+}
+.about-section h2 {
+  font-size: 25px;
+}
